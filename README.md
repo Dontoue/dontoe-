@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Donnto
+- 👋 Hi, I’m DONALD MWANGA
 - 👀 I’m interested in Computer Hardware and Software Engineer-Full Stack
 - 🌱 I’m currently learning Google IT support,Java, C Programming Python HTML and CSS, JavaScript, C++, UX design Mobiles App development
 - 💞️ I’m looking to collaborate on Web projects and Mobile App development
